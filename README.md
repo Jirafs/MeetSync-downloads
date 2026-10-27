@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.5.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.5-beta.1/MeetSync-0.3.5-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.5-beta.1)
+**Текущая тестовая версия: 0.3.6.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.6-beta.1/MeetSync-0.3.6-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.6-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
