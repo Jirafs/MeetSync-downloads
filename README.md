@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.11.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.11-beta.1/MeetSync-0.3.11-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.11-beta.1)
+**Текущая тестовая версия: 0.3.13.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.13-beta.1/MeetSync-0.3.13-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.13-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -11,6 +11,8 @@
 
 
 Доступны поиск и избранное мест, прогресс ответов участников и подсказки следующего действия. В профиле владельца — список пользователей с поиском и ролями. С версии 0.3.9 есть проверка обновлений внутри приложения; новые векторные значки и неоновая иконка сохранены.
+
+Шаблоны времени и копирование между выбранными днями доступны в 0.3.13. Встречу можно отметить отдельными днями, каждому задать свои часы. Последнюю замену времени можно отменить до сохранения.
 
 ## Установка
 
