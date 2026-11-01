@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.16.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.16-beta.1/MeetSync-0.3.16-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.16-beta.1)
+**Текущая тестовая версия: 0.3.18.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.18-beta.1/MeetSync-0.3.18-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.18-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -19,6 +19,8 @@
 Удаление пользователей в 0.3.15 доступно владельцу приложения с подтверждением email. Владельцы календарей защищены от удаления до передачи или удаления календарей.
 
 Встроенное обновление в 0.3.16 загружает и проверяет APK перед открытием установщика Android. Требуется один раз установить 0.3.16 поверх прежней версии.
+
+Оптимизация в 0.3.18: ускорены календарь и выбор дат, события и уведомления используют виртуальные списки. Проверки телефона и доставки Gmail остаются открытыми.
 
 ## Установка
 
