@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.20.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.20-beta.1/MeetSync-0.3.20-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.20-beta.1)
+**Текущая тестовая версия: 0.3.21.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.21-beta.1/MeetSync-0.3.21-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.21-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -23,6 +23,8 @@
 Оптимизация в 0.3.18: ускорены календарь и выбор дат, события и уведомления используют виртуальные списки. Проверки телефона и доставки Gmail остаются открытыми.
 
 Загрузка данных в 0.3.20: сохранённые календари и события показываются раньше в режиме просмотра, сетевые запросы выполняются параллельно. Первый вход без кэша зависит от сервера.
+
+Вход в 0.3.21: убрано лишнее обновление токена, ограничено ожидание, разделены ошибки Firebase и API. Вход на устройстве требует проверки.
 
 ## Установка
 
