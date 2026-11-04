@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.24.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.24-beta.1/MeetSync-0.3.24-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.24-beta.1)
+**Текущая тестовая версия: 0.3.25.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.25-beta.1/MeetSync-0.3.25-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.25-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -35,6 +35,8 @@
 Загрузка в 0.3.22: ограничено ожидание локального кэша, исправлены восстановление сессии и порядок выхода. Проверка входа на Android ещё требуется.
 
 Загрузка в 0.3.24: добавлена кнопка досрочного завершения этапа организатором с подтверждением. Прежний сервер и база сохранены; проверка новой кнопки на телефоне ещё требуется.
+
+Загрузка в 0.3.25: исправлена блокировка устаревшей встречи после сбоя обновления и прогресс голосования после ничьей. Прежний сервер и база сохранены; проверка на двух Android ещё требуется.
 
 ## Установка
 
