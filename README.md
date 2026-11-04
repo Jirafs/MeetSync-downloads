@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.21.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.21-beta.1/MeetSync-0.3.21-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.21-beta.1)
+**Текущая тестовая версия: 0.3.22.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.22-beta.1/MeetSync-0.3.22-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.22-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -31,6 +31,8 @@
 [Скачать MeetSync Демо 0.2](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.2.0-demo.1/MeetSync-Demo-0.2.0.apk).
 
 Рабочее локальное приложение без аккаунта и интернета: создавайте календари и встречи, добавляйте участников, указывайте доступность и голосуйте. Данные сохраняются на телефоне. Роли переключаются на одном устройстве; синхронизации разных телефонов нет. Не заменяет обычный MeetSync.
+
+Загрузка в 0.3.22: ограничено ожидание локального кэша, исправлены восстановление сессии и порядок выхода. Проверка входа на Android ещё требуется.
 
 ## Установка
 
