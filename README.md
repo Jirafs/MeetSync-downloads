@@ -1,7 +1,7 @@
 # MeetSync — скачать Android-бету
 
 
-**Текущая тестовая версия: 0.3.28.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.28-beta.1/MeetSync-0.3.28-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.28-beta.1)
+**Текущая тестовая версия: 0.3.29.** [Скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases/download/v0.3.29-beta.1/MeetSync-0.3.29-beta.apk) · [Описание и ограничения](https://github.com/Jirafs/MeetSync-downloads/releases/tag/v0.3.29-beta.1)
 
 
 [Открыть сборки и скачать APK](https://github.com/Jirafs/MeetSync-downloads/releases)
@@ -43,6 +43,8 @@
 Новое в 0.3.27: одновременная доступность участников, лучшие общие интервалы, месяц/неделя/список и встречи без заданного окончания. Проверено в тестовом эмуляторе; физическая приёмка и фоновый push ещё открыты.
 
 Новое в 0.3.28: добавление интервалов сразу с ползунком, компактный редактор и точный ввод по запросу. Проверено в тестовом эмуляторе.
+
+Новое в 0.3.29: компактные календари, лучшие даты, счётчики свободных участников и Plum Graphite. Светлый и тёмный режимы проверены в тестовом эмуляторе.
 
 ## Установка
 
